@@ -1,0 +1,8 @@
+Code Attribution
+All code implementation is original work based on: 
+DQN architecture: Standard implementation from Mnih et al. (2015) paper 
+PyTorch framework: Official PyTorch documentation
+Gymnasium environment: Farama Foundation ALE/Atari 
+Frame preprocessing: Standard Atari preprocessing (grayscale, resize 84×84) 
+No external code copied - all implementations written from scratch 
+Conceptual guidance from: https://www.youtube.com/watch?v=hCeJeq8U0lo&feature=youtu.be 
