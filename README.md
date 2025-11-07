@@ -2,7 +2,7 @@
 
 # Deep Q-Learning for Atari's Demon Attack
 
-Implementation of Deep Q-Network (DQN) agent that learns to play Atari's Demon Attack through reinforcement learning.
+Implementation of Deep Q-Network (DQN) agent that learns to play Atari's Demon Attack
 
 ## Overview
 
